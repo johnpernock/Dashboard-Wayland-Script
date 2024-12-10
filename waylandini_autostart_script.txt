@@ -1,4 +1,0 @@
-[autostart]
-chromium= chromium-browser --noerrdialogs --disable-infobars --no-first-run --ozone-platform=wayland --start-maximized --enable-features=WebUIDarkMode,WebContentsForceDark,UseOzonePlatform,OverlayScrollbar --force-dark-mode --kiosk http://192.168.1.2:8123/small-display/0
-screensaver=false
-dpms=false
